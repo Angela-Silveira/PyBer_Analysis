@@ -3,7 +3,7 @@
 The purpose of this data analysis is to explore the trends between city type (Urban, Suburban, and Rural), number of drivers, and fares for ride-sharing application PyBer on a weekly basis beginning January 2019 through April 2019. 
 
 ## Results
-The initial analysis identified trends including:
+The analysis identified trends including:
 - Urban cities report a larger number of total drivers for PyBer and a larger number or total rides, but a lower average fare based on data for all of 2019. Rural cities report a smaller number of total drivers and a smaller number of total rides, but a higher average fare.
 
 ![CityTypeSummary](analysis/CityTypeSummary.png)

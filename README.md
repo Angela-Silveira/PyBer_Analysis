@@ -8,7 +8,7 @@ The analysis identified trends including:
 
 ![CityTypeSummary](analysis/CityTypeSummary.png)
 
-- This dataframe illustrates that while there is a difference in average fare per ride between city types, the more significant differences can be found in total rides, total drivers, and average fare per ride. Rural and Suburban cities also experienced more total rides than there are total drivers, while urban cities reported more drivers than total rides (suggesting many drivers were inactive). 
+- This dataframe illustrates that while there is a difference in average fare per ride between city types, the more significant differences can be found in total rides, total drivers, and average fare per driver. Rural and Suburban cities also experienced more total rides than there are total drivers, while urban cities reported more drivers than total rides (suggesting many drivers were inactive). 
 - The larger average fare per ride likely contributes to rural and suburban drivers being more likely to accept a ride request - $34 (avg. fare per ride in rural cities) is more of an incentive than $24 (avg. fare per ride in urban cities). 
 - The average fare per driver in urban areas may be dilluted due to the number of drivers being greater than the number of total rides - if drivers were truly inactive, they should not be calculated. If they were active and did not receive ride requests, this average fare per ride ($16.57) should continue to be monitored as it reflects drivers perceived income.
 

@@ -4,7 +4,7 @@ The purpose of this data analysis is to explore the trends between city type (Ur
 
 ## Results
 The analysis identified trends including:
-- Urban cities report a larger number of total drivers for PyBer and a larger number or total rides, but a lower average fare based on data for all of 2019. Rural cities report a smaller number of total drivers and a smaller number of total rides, but a higher average fare.
+- Urban cities report a larger number of total drivers for PyBer and a larger number of total rides, but a lower average fare based on data for all of 2019. Rural cities report a smaller number of total drivers and a smaller number of total rides, but a higher average fare.
 
 ![CityTypeSummary](analysis/CityTypeSummary.png)
 
